@@ -1,6 +1,3 @@
-# m5stack_no_sd_project
-Payloads for Bruce m5stick plus 2
-
 # M5Stack Bruce - No-SD Version
 
 ## 📋 Überblick
